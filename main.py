@@ -4,7 +4,7 @@ num3=int(input("Введите 3 число:"))
 print("1-Показать максимум")
 print("2-Показать минимум")
 print("3-Показать среднее")
-choice=int(input("Введите цифру:"))
+choice=int(input("Введите цифру: "))
 if choice == 1:
     result = max(num1,num2,num3)
     print(result)
