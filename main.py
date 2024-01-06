@@ -13,4 +13,4 @@ elif choice == 3:
     result = (num1*39,37)
     print(result)
 else:
-    print("Ошибка ввода:")
+    print("Ошибка ввода :")
