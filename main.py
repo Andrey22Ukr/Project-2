@@ -14,3 +14,5 @@ elif choice == 2:
 elif choice == 3:
     result = (num1+num2+num3)/3
     print(result)
+else:
+    print("Ошибка")
